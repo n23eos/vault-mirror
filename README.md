@@ -1,23 +1,12 @@
-
-
 # vault-mirror
 
-**Your notes already know who you are. This makes them tell you.**
+**vault-mirror turns a folder of markdown notes into a set of evidence-linked reports about the person who wrote them.** You copy the folder next to your notes, tell any agent with file access (Claude Code, Cursor, Codex) to read prompts/00-start.md, and it works through years of your writing and returns 16 reports: how you think, what you value against where your attention actually goes, why projects die, and a 30-day plan built around your real failure patterns. Every claim is backed by a quote or a link to a specific note. Bonus prompts write a letter from your past self, a reusable style prompt that writes like you, and a system prompt that advises like your most honest friend. There is nothing to install and no dependencies: the repository is prompts.
 
-vault-mirror turns your Obsidian vault (or any folder of markdown notes) into
-an honest psychological mirror. You copy this folder next to your notes, tell
-whatever AI agent you already use — Claude Code, Cursor, Codex, anything with
-file access — **"Read prompts/00-start.md and begin"**, and it reads years of
-your own writing and hands back 16 evidence-linked reports: how you actually
-think, what you value versus what you do, why your projects die, and a 30-day
-plan built around your real failure patterns. Every claim is backed by a quote
-or a link to a real note — no horoscope, no flattery.
+<div align="center">
 
-Why it's useful: you can't see your own patterns from the inside, but they're
-sitting in your notes in plain text. A friend would need years to read all of
-it; an agent does it in one session.
+[![Star on GitHub](https://img.shields.io/github/stars/N23eos/vault-mirror?style=for-the-badge&logo=github&label=Star%20this%20repo&color=FFD700&labelColor=1a1a1a)](https://github.com/N23eos/vault-mirror)
 
-No install, no dependencies, no telemetry. It's just prompts.
+</div>
 
 ## What you get
 
